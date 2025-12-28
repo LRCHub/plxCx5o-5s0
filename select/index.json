@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "From The Start",
+  "base_artist": "Laufey",
+  "createdAt": "2025-12-28T17:30:54.141679Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Right from the Start",
+      "artist": "Earl Thomas Conley",
+      "has_synced": true,
+      "path": "select/01_Right_from_the_Start_Earl_Thomas_Conley.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Right from the Start",
+      "artist": "Earl Thomas Conley",
+      "has_synced": true,
+      "path": "select/02_Right_from_the_Start_Earl_Thomas_Conley.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Let's Get This Straight From The Start",
+      "artist": "Dexys Midnight Runners",
+      "has_synced": false,
+      "path": "select/03_Let's_Get_This_Straight_From_The_Start_Dexys_Midnight_Runners.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Let's Get This Straight From The Start",
+      "artist": "Kevin Rowland & Dexys Midnight Runners",
+      "has_synced": false,
+      "path": "select/04_Let's_Get_This_Straight_From_The_Start_Kevin_Rowland_&_Dexys_Midnight_Runners.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "from the start",
+      "artist": "d1v feat. With3r & Loveboy",
+      "has_synced": true,
+      "path": "select/05_from_the_start_d1v_feat._With3r_&_Loveboy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "from the start (feat. loveboy)",
+      "artist": "d1v",
+      "has_synced": true,
+      "path": "select/06_from_the_start_(feat._loveboy)_d1v.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "We Were Doomed From the Start (The King Is Dead)",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/07_We_Were_Doomed_From_the_Start_(The_King_Is_Dead)_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tell Me from the Start",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/08_Tell_Me_from_the_Start_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Returning The Smile You Have Had From The Start",
+      "artist": "Emery",
+      "has_synced": false,
+      "path": "select/09_Returning_The_Smile_You_Have_Had_From_The_Start_Emery.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "From The Start",
+      "artist": "Little Caesar",
+      "has_synced": true,
+      "path": "select/10_From_The_Start_Little_Caesar.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Carried from the Start",
+      "artist": "Black Rebel Motorcycle Club",
+      "has_synced": true,
+      "path": "select/11_Carried_from_the_Start_Black_Rebel_Motorcycle_Club.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Right from the Start",
+      "artist": "Thunder",
+      "has_synced": true,
+      "path": "select/12_Right_from_the_Start_Thunder.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Science Behind Why We're Doomed from the Start",
+      "artist": "Ghostemane",
+      "has_synced": true,
+      "path": "select/13_The_Science_Behind_Why_We're_Doomed_from_the_Start_Ghostemane.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Empty from the Start",
+      "artist": "Noah Gundersen",
+      "has_synced": true,
+      "path": "select/14_Empty_from_the_Start_Noah_Gundersen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "From The Start",
+      "artist": "Laufey",
+      "has_synced": false,
+      "path": "select/pl_01_From_The_Start_Laufey.txt"
+    }
+  ]
+}
